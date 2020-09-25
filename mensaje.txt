@@ -1,2 +1,4 @@
-esta es una prueba
+Este es un segundo mensaje para el archivo.
+Test
+Esta es la tercera línea
 
